@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Search API
+    
+data:
+  isCaseSensitive: false
+  repository:
+    fileLocation: classpath:data.txt
